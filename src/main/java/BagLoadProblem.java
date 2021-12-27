@@ -10,7 +10,7 @@ import java.util.List;
  * .@date
  */
 @PlanningSolution
-public class BagLoadProblem extends AbstractPersistable {
+public class BagLoadProblem {
 
     private List<Goods> goodsList;
     private SimpleScore simpleScore;

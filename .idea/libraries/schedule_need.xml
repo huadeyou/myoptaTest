@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="schedule_need">
+    <CLASSES>
+      <root url="jar://C:/software/installlocation/cplex/schedule_need.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

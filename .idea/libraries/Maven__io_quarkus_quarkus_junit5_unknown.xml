@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.quarkus:quarkus-junit5:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/quarkus/quarkus-junit5/unknown/quarkus-junit5-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/io/quarkus/quarkus-junit5/unknown/quarkus-junit5-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/quarkus/quarkus-junit5/unknown/quarkus-junit5-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
